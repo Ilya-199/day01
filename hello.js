@@ -4,3 +4,4 @@ console.log("2" + 3,10 - "4");
 console.log(10/3);
 console.log(10%3);
 console.log(10**3);
+console.log(7%3);
