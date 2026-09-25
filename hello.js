@@ -6,3 +6,4 @@ console.log(10%3);
 console.log(10**3);
 console.log(7%3);
 console.log(75**5);
+console.log(9*4+64);
